@@ -33,7 +33,7 @@ export class EmployeeListComponent {
       
       this.getEmployees();
     })
-
+ 
   }
   EmployeeDetails(id:number){
     this.router.navigate(['employee-details',id]);

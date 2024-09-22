@@ -22,6 +22,6 @@ export class EmployeeDetailsComponent {
           this.employee=data;
           
         })
-    }
+    } 
 
 }
